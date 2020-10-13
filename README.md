@@ -15,7 +15,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=for-the-badge&logo=webpack)
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wozniaklukasz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wozniaklukasz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me
 <a href="https://github.com/wozniaklukasz" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)</a>
