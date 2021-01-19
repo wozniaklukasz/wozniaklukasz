@@ -1,3 +1,4 @@
+<!--
 ## Technologies & stack
 
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
@@ -15,12 +16,14 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=for-the-badge&logo=webpack)
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wozniaklukasz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wozniaklukasz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+ -->
 
 ## Find me
 <a href="https://github.com/wozniaklukasz" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)</a>
 <a href="https://www.linkedin.com/in/wozniaklukaszg/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin)</a>
-
+<!--
 ##
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwozniaklukasz%2Fhit-counter&count_bg=%231DA6AE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+ -->
